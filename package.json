@@ -1,5 +1,5 @@
 {
-  "name": "flowise-embed",
+  "name": "@birksy89/flowise-embed",
   "version": "1.0.18",
   "description": "Javascript library to display flowise chatbot on your website",
   "type": "module",
@@ -13,6 +13,10 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,md,mdx}\"",
     "format:check": "prettier --check \"**/*.{js,jsx,ts,tsx,md,mdx}\"",
     "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hostcomm/FlowiseEmbedReact.git"
   },
   "license": "MIT",
   "dependencies": {
